@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "0.0.1",
+  "description": "A minimal implement of Promise, multiple ES6 features are applied",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "Promise",
+    "Minimal"
+  ],
+  "author": "Maples7",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
