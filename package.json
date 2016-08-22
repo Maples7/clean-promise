@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "mocha ./test"
+    "test": "promises-aplus-tests index"
   },
   "keywords": [
     "Promise",
@@ -15,5 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "*"
   }
 }
