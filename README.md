@@ -1,5 +1,5 @@
 # Promise
-A minimal and clean implement of JavaScript ES6 Promise, which passes all [the test cases](https://github.com/promises-aplus/promises-tests).
+A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
 ## Usage
 > \> npm install XXXX (TODO)        
@@ -8,9 +8,8 @@ A minimal and clean implement of JavaScript ES6 Promise, which passes all [the t
 TODO
 
 ## Features
-* multiple ES6 features are applied: const/let, Class, Symbol etc   
-* clean and explict code
-* **ONLY** can be applied to Node.js environment because `process` is used (so also faster)
+* multiple ES6 features are applied: const/let, Class, Symbol, => etc   
+* clean, explict and fast
 
 ## Test
 > \> npm test   
