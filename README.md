@@ -10,7 +10,7 @@ TODO
 ## Features
 * multiple ES6 features are applied: const/let, Class, Symbol etc   
 * clean and explict code
-* **ONLY** can be applied to Node.js environment because `process` is used
+* **ONLY** can be applied to Node.js environment because `process` is used (so also faster)
 
 ## Test
 > \> npm test   
