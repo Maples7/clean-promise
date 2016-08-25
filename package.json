@@ -1,6 +1,6 @@
 {
   "name": "clean-promise",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A minimal implement of Promise, multiple ES6 features are applied",
   "author": "Maples7 <maples7@163.com> | maples7.com",
   "contributors": [
@@ -23,9 +23,9 @@
   "engines": {
     "node": ">=6.1.0"
   },
-  "repository": "TODO",
+  "repository": "https://github.com/Maples7/clean-promise",
   "bugs": {
-    "url": "TODO",
+    "url": "https://github.com/Maples7/clean-promise/issues",
     "email": "maples7@163.com"
   },
   "license": "MIT",
