@@ -1,7 +1,7 @@
 # clean-promise
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=0)](https://www.npmjs.com/package/clean-promise)
 [![Gemnasium](https://img.shields.io/gemnasium/mathiasbynens/he.svg?maxAge=2592000)](https://www.npmjs.com/package/clean-promise)
-[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://www.npmjs.com/package/clean-promise)        
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](https://www.npmjs.com/package/clean-promise)
+[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://www.npmjs.com/package/clean-promise)     
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
 ## Usage
