@@ -1,7 +1,14 @@
 {
-  "name": "promise",
+  "name": "clean-promise",
   "version": "0.1.0",
   "description": "A minimal implement of Promise, multiple ES6 features are applied",
+  "author": "Maples7 <maples7@163.com> | maples7.com",
+  "contributors": [
+    {
+      "name": "Maples7",
+      "email": "maples7@163.com"
+    }
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -10,9 +17,17 @@
   "keywords": [
     "Promise",
     "minimal",
-    "es6"
+    "es6",
+    "clean"
   ],
-  "author": "Maples7",
+  "engines": {
+    "node": ">=6.1.0"
+  },
+  "repository": "TODO",
+  "bugs": {
+    "url": "TODO",
+    "email": "maples7@163.com"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
