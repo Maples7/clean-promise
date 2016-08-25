@@ -1,4 +1,5 @@
 # clean-promise
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/clean-promise)   
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
 ## Usage
