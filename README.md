@@ -1,8 +1,8 @@
-# Promise
+# clean-promise
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
 ## Usage
-> \> npm install XXXX (TODO)        
+> \> npm install clean-promise        
 
 ## APIs
 TODO
