@@ -31,7 +31,7 @@ A minimal and clean implement of JavaScript ES6 Promise, which passes all [stand
 ## Test
 > \> npm test   
 
-## changeLog
+## ChangeLog
 
 ### V 1.1.0 - 2016.08.26
 * fix async bugs in .all & .return
