@@ -14,6 +14,8 @@ A minimal and clean implement of JavaScript ES6 Promise, which passes all [stand
 - ```.spread(function(any values...) cb, [onRejected])  ->  Promise```
 - ```.all(Iterable<any> | Promise<Iterable<any>> input)  ->  Promise```
 - ```.map(function(any item, int index, int length) mapper, [function(any error) onRejected])  ->  Promise```
+- ```.return(Promise<any> | any value)  ->  Promise```
+- ```.tap([function(any value) onResolved])  ->  Promise```
 - ```Promise.resolve(Promise<any> | any value)  ->  Promise```
 - ```Promise.reject(any error)  ->  Promise```
 - ```Promise.all(Iterable<any> | Promise<Iterable<any>> input)  ->  Promise```
@@ -30,6 +32,10 @@ A minimal and clean implement of JavaScript ES6 Promise, which passes all [stand
 > \> npm test   
 
 ## changeLog
+
+### V 1.1.0 - 2016.08.26
+* fix async bugs in .all & .return
+* add .tap API
 
 ### V 1.0.0 - 2016.08.26
 * finish all basical functions
