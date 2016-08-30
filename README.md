@@ -5,13 +5,12 @@
   
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
-## Usage
-After
-
+## Installation
 > \> npm install clean-promise      
 
+## Usage
 You can use it like this in your own code:
-```
+```js
 const Promise = require('clean-promise');
 
 Promise.all([Promise.resolve(1), 2, 3]).return(4444)
