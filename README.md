@@ -6,7 +6,7 @@
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
 ## Installation
-> \> npm install clean-promise      
+> \> npm install clean-promise --save     
 
 ## Usage
 You can use it like this in your own code:
