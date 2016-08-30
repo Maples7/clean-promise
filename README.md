@@ -48,6 +48,10 @@ Promise.all([Promise.resolve(1), 2, 3]).return(4444)
 
 ## ChangeLog
 
+### V 1.1.1 - 2016.08.30
+* simplify and optimize code
+* update README
+
 ### V 1.1.0 - 2016.08.26
 * fix async bugs in .all & .return
 * add .tap API

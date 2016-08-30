@@ -1,6 +1,6 @@
 {
   "name": "clean-promise",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A minimal implement of Promise, multiple ES6 features are applied",
   "author": "Maples7 <maples7@163.com> | maples7.com",
   "contributors": [
