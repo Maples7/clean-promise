@@ -5,6 +5,11 @@
   
 A minimal and clean implement of JavaScript ES6 Promise, which passes all [standard test cases](https://github.com/promises-aplus/promises-tests).
 
+## Features
+* multiple ES6 features are applied: const/let, Class, Symbol, => etc   
+* clean, explict and fast
+* both available on back-end and front-end
+
 ## Installation
 > \> npm install clean-promise --save     
 
@@ -38,13 +43,11 @@ Promise.all([Promise.resolve(1), 2, 3]).return(4444)
 - ```Promise.race(Iterable<any> | Promise<Iterable<any>> input)  ->  Promise```
 - ```Promise.try(function() fn)  ->  Promise```
 
-## Features
-* multiple ES6 features are applied: const/let, Class, Symbol, => etc   
-* clean, explict and fast
-* both available on back-end and front-end
-
 ## Test
 > \> npm test   
+
+## Join Me
+[用ES6特性实现一个标准的轻量级Promise](http://maples7.com/2016/08/29/%E7%94%A8ES6%E7%89%B9%E6%80%A7%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%A0%87%E5%87%86%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BA%A7Promise/)
 
 ## ChangeLog
 
