@@ -30,6 +30,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "promises-aplus-tests": "*"
+    "promises-aplus-tests": "^2.1.2"
   }
 }
