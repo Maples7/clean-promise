@@ -48,7 +48,7 @@ Promise.all([Promise.resolve(1), 2, 3]).return(4444)
 > \> npm test   
 
 ## Join Me
-[用ES6特性实现一个标准的轻量级Promise](http://maples7.com/2016/08/29/%E7%94%A8ES6%E7%89%B9%E6%80%A7%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%A0%87%E5%87%86%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BA%A7Promise/)
+[用ES6特性实现一个标准的轻量级Promise](http://maples7.com/2016/08/29/implement-a-clean-promise-with-es6-features/)
 
 ## ChangeLog
 
